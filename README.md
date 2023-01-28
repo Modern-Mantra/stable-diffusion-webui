@@ -1,5 +1,9 @@
 # Stable Diffusion web UI
-A browser interface based on Gradio library for Stable Diffusion.
+A browser interface based on Gradio library for Stable Diffusion for Modern Mantra video creation
+
+### Setup Tutorial Videos
+1. [Mac Setup YouTube Video (Watch First)](https://www.youtube.com/watch?v=Jh-clc4jEvk&t=8s&ab_channel=TroubleChute)
+2. [Deforum Extension Setup Tutorial Video](https://www.youtube.com/watch?v=Zvo86Y7hgfY&t=92s&ab_channel=OlivioSarikas)
 
 ![](screenshot.png)
 
